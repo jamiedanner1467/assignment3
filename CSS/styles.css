@@ -20,6 +20,9 @@ header nav ul li a {
 .logo {
     height:75px;
 }
+header nav ul li {
+    padding-right: 10;
+}
 /*
 .div {
     display: flex;
