@@ -6,3 +6,23 @@
     box-shadow: 5px 5px #777777;
     height: 275px;
 }
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+header nav ul li a {
+    text-decoration: none;
+/*    text-transform: uppercase;*/
+    padding-right: 15;
+}
+.logo {
+    height:75px;
+}
+/*
+.div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}*/
