@@ -1,3 +1,20 @@
+body{
+    background-color: #cdfee6;
+}
+h1 {
+    text-align: center;
+    border: 2px solid #ffffff;
+}
+h2 {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: darkblue;
+    font-family: serif;
+    text-align: center;
+    }
 .script {
     font-family: cursive;
     color:darkblue;
@@ -14,18 +31,19 @@ header nav ul {
 }
 header nav ul li a {
     text-decoration: none;
-/*    text-transform: uppercase;*/
-    padding-right: 15;
+    text-transform: uppercase;
+    padding-left: 10px;
 }
 .logo {
-    height:75px;
+    height:50px;
 }
 header nav ul li {
     padding-right: 10;
 }
-/*
-.div {
+div {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}*/
+}
+img {
+    align-content: center;
+}
+
