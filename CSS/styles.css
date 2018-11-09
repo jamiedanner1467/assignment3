@@ -19,6 +19,11 @@ p {
     font-family: cursive;
     color:darkblue;
 }
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    }
 #image {
     box-shadow: 5px 5px #777777;
     height: 275px;
@@ -46,4 +51,6 @@ div {
 img {
     align-content: center;
 }
-
+a:hover {
+    color: azure;
+}
